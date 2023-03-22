@@ -13,5 +13,5 @@ class A{
     
 };
 void test(){
-
+    return;
 }
