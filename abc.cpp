@@ -14,5 +14,5 @@ class A{
 };
 void test(){
     cout<<"hello world";
-    cout<<"hello branch one!"<<endl;
+    cout<<"hello branch one hello!"<<endl;
 }
