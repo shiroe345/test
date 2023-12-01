@@ -14,4 +14,5 @@ class A{
 };
 void test(){
     cout<<"hello world";
+    cout<<"hello world one here!"<<endl;
 }
