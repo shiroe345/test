@@ -15,6 +15,7 @@ class A{
 void test(){
     cout<<"hello world";
     cout<<"hello two branch here!"<<endl;
-    cout<<"hello world one herdsdfsfsfsdfsfsdfsfsfsfe!"<<endl;
+    cout<<"hello world one herdsd!"<<endl;
     cout<<"hello branchhh one!"<<endl;
 }
+
