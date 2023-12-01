@@ -14,7 +14,13 @@ class A{
 };
 void test(){
     cout<<"hello world";
+<<<<<<< HEAD
+<<<<<<< HEAD
     cout<<"hello two branch here!"<<endl;
+=======
     cout<<"hello world one here!"<<endl;
+>>>>>>> one
+=======
     cout<<"hello branch one!"<<endl;
+>>>>>>> one
 }
